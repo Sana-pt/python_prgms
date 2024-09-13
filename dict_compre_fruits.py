@@ -6,3 +6,6 @@ for i in range(a):
 print(l)
 d1={fruit:len(fruit) for fruit in l}
 print(d1 )
+
+
+
