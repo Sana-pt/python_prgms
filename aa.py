@@ -77,3 +77,9 @@
 # print("list 2:",even_nums)
 # prime_nums.extend(even_nums)
 # print("list after append:",prime_nums)
+
+
+
+
+
+
