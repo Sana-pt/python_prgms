@@ -9,3 +9,7 @@ def is_anagram(s1,s2):
 s1=input("Enter the first word: ")
 s2=input("Enter the second word: ")
 is_anagram(s1,s2)
+
+
+
+

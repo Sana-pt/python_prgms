@@ -111,7 +111,7 @@ def login():
                 if choice==1:
                     display_books()
                 elif choice==2:
-                    search()
+                    search_book()
                 elif choice==3:
                     break
                 else:
@@ -136,8 +136,6 @@ def search_book():
             print("Quantity:", book["quantity"])
             print()
             return
-    print("Invaild biik title")
+    print("Invaild book title")
 
-main()
-
-    
+main() 
