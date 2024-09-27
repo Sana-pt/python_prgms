@@ -158,3 +158,37 @@
 # obj2.func1()
 # obj2.func3()
 
+
+# class Animal:
+#     def speak(self):
+#         print("speaking")
+# class Dog(Animal):
+#     def speak(self):
+#         print("Barking")
+# d=Dog()
+# d.speak()
+
+# class Bank:
+#     def getroi(self):
+#         return 10
+# class SBI(Bank):
+#     def getroi(self):
+#         return 7
+# class ICICI(Bank):
+#     def getroi(self):
+#         return 8
+# b1=Bank()
+# b2=SBI()
+# b3=ICICI()
+
+# class Base1:
+#     def __init__(self):
+#         self.p="JavaPoint"
+#         self.__q="Javatpoint"
+# class Derived1(Base1):
+#     def __init__(self):
+#         Base1.__init__(self)
+#         print("We will call the private member of base class: ")
+#         print(self.__qq)
+#     obj_1=Base1()
+#     print(obj_1.p)

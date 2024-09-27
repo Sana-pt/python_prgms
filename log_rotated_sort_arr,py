@@ -1,0 +1,6 @@
+l=int(input("Enter limits: "))
+
+for i in range(l):
+    num=int(input("Enter nums: "))
+    while 
+
